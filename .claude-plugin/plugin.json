@@ -1,0 +1,14 @@
+{
+  "name": "screenwriting-master",
+  "displayName": "Shanyin Screenwriting Master (English)",
+  "version": "1.0.0",
+  "description": "English translation of Shanyin Super Screenwriting Master: all-format screenwriting skill covering ultra-short films, short films, features and series.",
+  "author": {
+    "name": "PPGF",
+    "url": "https://github.com/PPGF"
+  },
+  "homepage": "https://github.com/PPGF/shanyin-screenwriting-master-English-Translation",
+  "repository": "https://github.com/PPGF/shanyin-screenwriting-master-English-Translation",
+  "license": "MIT",
+  "keywords": ["screenwriting", "screenplay", "film", "series", "writing"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "shanyin-screenwriting",
+  "description": "Shanyin Super Screenwriting Master, English translation",
+  "owner": {
+    "name": "PPGF",
+    "url": "https://github.com/PPGF"
+  },
+  "plugins": [
+    {
+      "name": "screenwriting-master",
+      "source": "./",
+      "description": "All-format screenwriting skill: ultra-short, short, feature and series."
+    }
+  ]
+}

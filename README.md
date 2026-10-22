@@ -46,6 +46,19 @@ Seamlessly supports projects ranging from short-form to feature-length productio
 
 ## How to Use
 
+### Install as a Claude Code plugin
+
+```
+/plugin marketplace add PPGF/shanyin-screenwriting-master-English-Translation
+/plugin install screenwriting-master@shanyin-screenwriting
+```
+
+Or in one step (Claude Code 2.1.275+):
+
+```
+/plugin install screenwriting-master --marketplace PPGF/shanyin-screenwriting-master-English-Translation
+```
+
 ### 1. Import the Skill
 
 #### AI tools supporting `.skill` or `.zip`
